@@ -1,0 +1,43 @@
+html {
+  background-color: #c9b5ab;
+  line-height: 1.5;
+  font-family: 'PT Serif', serif;
+}
+
+h1,
+h2,
+nav {
+  font-family: 'PT Sans', sans-serif;
+}
+
+h1,
+h2 {
+  color: #3f1622;
+}
+
+a {
+  color: #8f2440;
+  text-decoration: none;
+}
+
+ol {
+  list-style-type: none;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  font-style: italic;
+}
+
+p:nth-of-type(1) {
+  font-size: 1.125rem;
+  font-weight: bold;
+}
+
+.bolder {
+  font-weight: bold;
+  font-style: normal;
+}
